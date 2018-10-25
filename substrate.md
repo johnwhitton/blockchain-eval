@@ -10,6 +10,7 @@
   * [BBQ Birch - Testnet](https://polkascan.io/n-pre/bbqbirch/)
 * [poc-2.plokadot.io](https://poc-2.polkadot.io/#/explorer)
 * [Substrate Explorer](https://polkadot.js.org/apps/next/#/explorer)
+* [Telemetry.polkadot.io](https://telemetry.polkadot.io/#/Krumme%20Lanke)
 
 ### Relevant Documentation
 * [What is Substrate](https://www.parity.io/what-is-substrate/)
@@ -26,6 +27,7 @@
 * [Secret Store](https://wiki.parity.io/Secret-Store.html) shard key generation
 * [Parity Ethereum IPFS](https://wiki.parity.io/IPFS)
 * [Cosmos vs Polkadot](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
+* [Polkadot POC Tutorials](https://medium.com/coinmonks/polkadot-hello-world-3-poc-3-on-substrate-is-here-c45d100f72e3)
 
 
 
@@ -56,6 +58,7 @@
   * Light Client
     * [DB Code](https://github.com/paritytech/substrate/blob/master/core/client/db/src/light.rs)
     * [Light Client Code](https://github.com/paritytech/substrate/tree/master/core/client/src/light)
+    * [Protocol Ligh Client Storage](https://github.com/paritytech/substrate/issues/131)
   * Node
     * [Client Code](https://github.com/paritytech/substrate/tree/master/core/client/src)
   * Validator
@@ -135,11 +138,24 @@
 **Key Pull Requests or Features**
 
 ## Substrate Prototyping
+* [Background Material](https://medium.com/coinmonks/polkadot-hello-world-3-poc-3-on-substrate-is-here-c45d100f72e3)
 
 **Deploying a Substrate Chain**
 * [Overview](https://hackmd.io/y-E9Q9jTRreni6z9EU0kkA#)
 * [Locally](https://github.com/paritytech/substrate#on-mac)
 * [From Code Base](https://github.com/paritytech/substrate#on-mac)
+* [Current Issue with BBQ Birch](https://github.com/paritytech/substrate/issues/949) - [cause](https://github.com/paritytech/substrate/pull/900)
+
+Note by default chaindata is held in
+```
+Johns-MacBook-Pro-2:chains jincubator$ pwd
+/Users/jincubator/Library/Application Support/Substrate/chains
+Johns-MacBook-Pro-2:chains jincubator$ ll
+total 0
+drwxr-xr-x  5 jincubator  staff  160 Oct 22 21:31 bbq-birch
+drwxr-xr-x  5 jincubator  staff  160 Oct 23 11:50 development
+drwxr-xr-x  5 jincubator  staff  160 Oct 23 14:16 staging_testnet
+```
 
 **Deploying Polkadot**
 * [Overview](https://github.com/paritytech/polkadot#4-hacking-on-polkadot)

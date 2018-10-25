@@ -39,6 +39,7 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
 **Functional Breakdown**
 * Persistence
   * Storage
+    * Data Layer rewrite - [1600]](https://github.com/stellar/stellar-core/pull/1600) and [1788](https://github.com/stellar/stellar-core/pull/1788)
   * Light Client
   * Node
   * Validator
@@ -46,6 +47,7 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
 * Distribution
   * Discovery
   * Gossip
+    * [Buffered Ledger Replay](https://github.com/stellar/stellar-core/issues/1803)
   * Consensus
     * Block Finality
 * Security
@@ -62,6 +64,8 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
   * Message Format
   * Relay Chain
   * Consensus Process
+  * Cross Chain
+    *[722 - Bifrost (Stellar Ethereum Bridge)](https://github.com/stellar/go/issues/722)
 * Developer Tools
   * API
     * [Horizon API](https://www.stellar.org/developers/horizon/reference/index.html)
