@@ -28,6 +28,7 @@
 * [Parity Ethereum IPFS](https://wiki.parity.io/IPFS)
 * [Cosmos vs Polkadot](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
 * [Polkadot POC Tutorials](https://medium.com/coinmonks/polkadot-hello-world-3-poc-3-on-substrate-is-here-c45d100f72e3)
+* [Polkadot on Reddit](https://www.reddit.com/r/dot/)
 
 
 
@@ -58,7 +59,7 @@
   * Light Client
     * [DB Code](https://github.com/paritytech/substrate/blob/master/core/client/db/src/light.rs)
     * [Light Client Code](https://github.com/paritytech/substrate/tree/master/core/client/src/light)
-    * [Protocol Ligh Client Storage](https://github.com/paritytech/substrate/issues/131)
+    * [Protocol Light Client Storage](https://github.com/paritytech/substrate/issues/131)
   * Node
     * [Client Code](https://github.com/paritytech/substrate/tree/master/core/client/src)
   * Validator
@@ -89,6 +90,18 @@
       * [GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement)](https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5)
         * [Finality GANDPA Code](https://github.com/paritytech/finality-grandpa)
         * [Substrate using GRANDPA](https://github.com/paritytech/substrate/blob/master/core/finality-grandpa/src/lib.rs)
+    * Relay Chain
+      * [Whitepaper Overview - Participation in Polkadot](https://polkadot.network/PolkaDotPaper.pdf) - Page 4 gives an overview of the actors
+      * [Collator](https://github.com/paritytech/substrate/blob/v0.2/polkadot/collator/src/lib.rs)
+         * A collator node lives on a distinct parachain and submits a proposal fora state transition, along with a proof for its validity (what we might call a witness or block data).
+      * [Pokadot Parachain](https://github.com/paritytech/substrate/blob/v0.2/polkadot/parachain/src/lib.rs) - Defines primitive types for creating or validating a parachain.
+      * [Statement Table](https://github.com/paritytech/substrate/blob/v0.2/polkadot/statement-table/src/lib.rs) - This stores messages other authorities issue about candidates.
+      * [Network](https://github.com/paritytech/substrate/tree/v0.2/polkadot/network) - Does the heavy lifting of routing the statements and gaining consensus across the relay chain (and associated parachains)
+        * [Consensus](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/consensus.rs) - The "consensus" networking code built on top of the base network service. This fulfills the `polkadot_consensus::Network` trait, providing a hook to be called each time consensus begins on a new chain head.
+        * [Consensus Pool](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/collator_pool.rs) - Bridge between the network and consensus service for getting collations to it.
+        * [Router](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/router.rs) - Statement routing and consensus table router implementation.
+      * [Fisherman (Misbehaviour check)](https://github.com/paritytech/substrate/blob/v0.2/substrate/misbehavior-check/src/lib.rs) - Utility for substrate-based runtimes that want to check misbehavior reports.
+
 * Security
   * Signing
     * [ED25519](https://ed25519.cr.yp.to/)

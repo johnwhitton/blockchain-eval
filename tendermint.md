@@ -68,6 +68,7 @@
   * Staking
     * [Vesting Accounts](https://github.com/cosmos/cosmos-sdk/blob/e9295252251417c86f29b294563228f076652d5b/docs/spec/auth/vesting.md)
     * [Proposer Rewards](https://github.com/cosmos/cosmos-sdk/issues/588)
+    * [Staking Keeper package](https://godoc.org/github.com/cosmos/cosmos-sdk/x/stake/keeper) [2598 - refactor]
   * Voting
   * Proposals
     * [Governance Design Overview](https://github.com/cosmos/cosmos-sdk/blob/develop/docs/spec/governance/overview.md)
