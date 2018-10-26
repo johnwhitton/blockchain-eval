@@ -27,6 +27,8 @@
 * [Tendermint Evaluation](https://jepsen.io/analyses/tendermint-0-10-2)
 * [Architectural Decision Records](https://github.com/tendermint/tendermint/blob/master/docs/architecture/README.md)
 * [Bug Bounty Program](https://blog.cosmos.network/bug-bounty-program-for-tendermint-cosmos-833c67693586)
+* Token Economics
+  * [Validator Economics](https://blog.cosmos.network/economics-of-proof-of-stake-bridging-the-economic-system-of-old-into-the-new-age-of-blockchains-3f17824e91db)
 
 
 ### Relevant Code Links

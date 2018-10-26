@@ -24,6 +24,9 @@
   * [Developers](https://www.stellar.org/blog/stellar-build-challenge-7-results)
   * [Anchors](https://www.stellar.org/about/directory#anchors)
   * [Companies](https://www.stellar.org/about/directory#companies)
+* Token Economics
+  * [Fees](https://www.stellar.org/developers/guides/concepts/fees.html)
+  * [Inflation Voting](https://www.stellar.org/developers/guides/concepts/inflation.html)
 
 
 ### Relevant Code Links

@@ -13,3 +13,4 @@ In conjunction with this there are a couple of higher level documents for a less
 * [Polkadot-Substrate](./substrate.md)
 * [Cosmos - Tendermint](./tendermint.md) - WIP
 * [Stellar](./stellar.md) - WIP
+* [EOS](./EOS.md) - WIP
