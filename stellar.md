@@ -20,7 +20,7 @@
 * [Stellar Core Introduction Video](https://www.youtube.com/watch?v=pt_mm8S9_WU&feature=youtu.be)
 * [Building your own Venmo with Stellar](https://blog.abuiles.com/building-your-own-venmo-with-stellar/)
 * [Sequence Documentation](https://dashboard.seq.com/docs)
-* Starlight: Payment channels on Stellar - [medium](https://medium.com/interstellar/starlight-payment-channels-on-stellar-3ff833c0d0ca)
+* Starlight: Payment channels on Stellar - [medium](https://medium.com/interstellar/starlight-payment-channels-on-stellar-3ff833c0d0ca) - [Protocol.md](https://github.com/interstellar/starlight/blob/main/starlight/doc/Protocol.md)
 * Ecosystem
   * [Developers](https://www.stellar.org/blog/stellar-build-challenge-7-results)
   * [Anchors](https://www.stellar.org/about/directory#anchors)
