@@ -102,9 +102,9 @@
 * [Pokadot Parachain](https://github.com/paritytech/substrate/blob/v0.2/polkadot/parachain/src/lib.rs) - Defines primitive types for creating or validating a parachain.
 * [Statement Table](https://github.com/paritytech/substrate/blob/v0.2/polkadot/statement-table/src/lib.rs) - This stores messages other authorities issue about candidates.
 * [Network](https://github.com/paritytech/substrate/tree/v0.2/polkadot/network) - Does the heavy lifting of routing the statements and gaining consensus across the relay chain (and associated parachains)
-* [Consensus](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/consensus.rs) - The "consensus" networking code built on top of the base network service. This fulfills the `polkadot_consensus::Network` trait, providing a hook to be called each time consensus begins on a new chain head.
-* [Consensus Pool](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/collator_pool.rs) - Bridge between the network and consensus service for getting collations to it.
-* [Router](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/router.rs) - Statement routing and consensus table router implementation.
+  * [Consensus](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/consensus.rs) - The "consensus" networking code built on top of the base network service. This fulfills the `polkadot_consensus::Network` trait, providing a hook to be called each time consensus begins on a new chain head.
+  * [Consensus Pool](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/collator_pool.rs) - Bridge between the network and consensus service for getting collations to it.
+  * [Router](https://github.com/paritytech/substrate/blob/v0.2/polkadot/network/src/router.rs) - Statement routing and consensus table router implementation.
 * [Fisherman (Misbehaviour check)](https://github.com/paritytech/substrate/blob/v0.2/substrate/misbehavior-check/src/lib.rs) - Utility for substrate-based runtimes that want to check misbehavior reports.
 
 ### Security
