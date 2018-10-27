@@ -14,13 +14,14 @@
 
 ### Relevant Documentation
 * [What is Substrate](https://www.parity.io/what-is-substrate/)
-  * Substrate [Video](https://www.youtube.com/watch?v=iUMZyL5kTwc) [Slides](http://slides.com/paritytech/paritysubstrate#/)
+  * Substrate [Video](https://www.youtube.com/watch?v=iUMZyL5kTwc) - [Slides](http://slides.com/paritytech/paritysubstrate#/)
     * [Potential Runtime Designs](http://slides.com/paritytech/paritysubstrate#/29) 
   * [Parity Substrate Wiki](https://wiki.parity.io/Parity-Substrate)
 * [What is PolKadot](https://polkadot.network/#whatisit)
-  * Polkadot Governance [Video](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24735s&list=PL6-IF807eaBG5sH-SQXlosqKRM2BZkrqw&index=4) [Slides](https://slides.com/paritytech/polkadot-governance#/)
+  * Polkadot Governance [Video](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24735s&list=PL6-IF807eaBG5sH-SQXlosqKRM2BZkrqw&index=4) - [Slides](https://slides.com/paritytech/polkadot-governance#/)
   * [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
   * Polkadot [Video](https://youtu.be/lIghiCmHz0U?list=PLaZFi8ZkzUvKGyWTQ999rbHUXfDQv2LRF) [Slides](https://www.slideshare.net/gavofyork/polkadot-presentation)
+  * Substrate : A Rustic Vision of Polkadot by Gavin Wood [Videio](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) - [Slides](https://slides.com/paritytech/substrate_web3summit#/1)
   * [Gavin Wood Podcast on Polkadot, Sharding and Substrate](https://www.zeroknowledge.fm/46)
   * [Polkadot runtime Environment : Alternative Implementation Grant](https://docs.google.com/document/d/1iaIWmfV-uA7Uv1O4yt9G2t_86q18h_r7i5T1t-_EZ-s/edit) - [Github](https://github.com/w3f/Web3-collaboration/issues/12)
 * [Token Economics - DOTS](https://polkadot.network/memorandum)
@@ -90,6 +91,7 @@
       * [GRANDPA (GHOST-based Recursive Ancestor Deriving Prefix Agreement)](https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5)
         * [Finality GANDPA Code](https://github.com/paritytech/finality-grandpa)
         * [Substrate using GRANDPA](https://github.com/paritytech/substrate/blob/master/core/finality-grandpa/src/lib.rs)
+        * [Full nodes should store a GRANDPA commit message](https://github.com/paritytech/substrate/issues/1026)
     * Relay Chain
       * [Whitepaper Overview - Participation in Polkadot](https://polkadot.network/PolkaDotPaper.pdf) - Page 4 gives an overview of the actors
       * [Collator](https://github.com/paritytech/substrate/blob/v0.2/polkadot/collator/src/lib.rs)

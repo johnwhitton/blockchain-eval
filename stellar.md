@@ -40,6 +40,8 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
 **Key Repositories**
 
 **Functional Breakdown**
+* Trading Functionality
+  * [Allow Buy Offers](https://github.com/stellar/stellar-protocol/issues/180)
 * Persistence
   * Storage
     * Data Layer rewrite - [1600]](https://github.com/stellar/stellar-core/pull/1600) and [1788](https://github.com/stellar/stellar-core/pull/1788)
@@ -57,6 +59,8 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
   * Signing
   * Hashing
   * Privacy
+  * Key Storage
+    * [Standardize format of Encrypted Key Files](https://github.com/stellar/stellar-protocol/issues/198)
 * Governance
   * Staking
   * Voting

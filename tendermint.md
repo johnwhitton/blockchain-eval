@@ -44,6 +44,8 @@
 * [Cosmos SDK](https://github.com/cosmos/cosmos-sdk)
 
 **Functional Breakdown**
+* Architecture
+  * [Architecture Design Records](https://github.com/tendermint/tendermint/tree/master/docs/architecture)
 * Persistence
   * Storage
     * [488 - StateDB Refactor](https://github.com/cosmos/ethermint/pull/488)
@@ -66,6 +68,9 @@
     * [2554 -gaicli multisig ready](https://github.com/cosmos/cosmos-sdk/pull/2554)
   * Hashing
   * Privacy
+  * Key Storage
+    * [Private Validator](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-008-priv-validator.md)
+    * [Encrypt the Private Key File on Disk](https://github.com/tendermint/tendermint/issues/2657#issuecomment-433301969)
 * Governance
   * Staking
     * [Vesting Accounts](https://github.com/cosmos/cosmos-sdk/blob/e9295252251417c86f29b294563228f076652d5b/docs/spec/auth/vesting.md)
@@ -100,6 +105,8 @@
   * Analytics
   * System Monitoring 
   * Deployment Tools
+* Performance
+  * [Mempool Overload at Volume](https://github.com/tendermint/tendermint/issues/1394)
 
 **Key Pull Requests or Features**
 
