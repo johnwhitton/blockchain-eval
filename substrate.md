@@ -21,7 +21,7 @@
   * Polkadot Governance [Video](https://www.youtube.com/watch?v=VsZuDJMmVPY&t=24735s&list=PL6-IF807eaBG5sH-SQXlosqKRM2BZkrqw&index=4) - [Slides](https://slides.com/paritytech/polkadot-governance#/)
   * [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
   * Polkadot [Video](https://youtu.be/lIghiCmHz0U?list=PLaZFi8ZkzUvKGyWTQ999rbHUXfDQv2LRF) [Slides](https://www.slideshare.net/gavofyork/polkadot-presentation)
-  * Substrate : A Rustic Vision of Polkadot by Gavin Wood [Videio](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) - [Slides](https://slides.com/paritytech/substrate_web3summit#/1)
+  * Substrate : A Rustic Vision of Polkadot by Gavin Wood [Video](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) - [Slides](https://slides.com/paritytech/substrate_web3summit#/1)
   * [Gavin Wood Podcast on Polkadot, Sharding and Substrate](https://www.zeroknowledge.fm/46)
   * [Polkadot runtime Environment : Alternative Implementation Grant](https://docs.google.com/document/d/1iaIWmfV-uA7Uv1O4yt9G2t_86q18h_r7i5T1t-_EZ-s/edit) - [Github](https://github.com/w3f/Web3-collaboration/issues/12)
 * [Token Economics - DOTS](https://polkadot.network/memorandum)
