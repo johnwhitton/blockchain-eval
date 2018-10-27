@@ -20,10 +20,12 @@
 * [Stellar Core Introduction Video](https://www.youtube.com/watch?v=pt_mm8S9_WU&feature=youtu.be)
 * [Building your own Venmo with Stellar](https://blog.abuiles.com/building-your-own-venmo-with-stellar/)
 * [Sequence Documentation](https://dashboard.seq.com/docs)
+* Starlight: Payment channels on Stellar - [medium](https://medium.com/interstellar/starlight-payment-channels-on-stellar-3ff833c0d0ca)
 * Ecosystem
   * [Developers](https://www.stellar.org/blog/stellar-build-challenge-7-results)
   * [Anchors](https://www.stellar.org/about/directory#anchors)
   * [Companies](https://www.stellar.org/about/directory#companies)
+
 * Token Economics
   * [Fees](https://www.stellar.org/developers/guides/concepts/fees.html)
   * [Inflation Voting](https://www.stellar.org/developers/guides/concepts/inflation.html)
@@ -36,6 +38,7 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
 * [Stellar Go](https://github.com/stellar/go) - Contains all go Code produced by the Stellar foundation and it's [Services](https://github.com/stellar/go/tree/master/services) include
   * [Horizon](https://github.com/stellar/go/tree/master/services/horizon) - Horizon is the client facing API server for the Stellar ecosystem
   * [Bifrost](https://github.com/stellar/go/tree/master/services/bifrost) - Bifrost is highly available and secure Bitcoin/Ethereum → Stellar bridge.
+
 
 **Key Repositories**
 
