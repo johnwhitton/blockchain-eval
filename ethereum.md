@@ -20,6 +20,8 @@
 
 
 **Key Repositories**
+* [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs/issues/648)
+  * [Easy parallelizibility - 648](https://github.com/ethereum/EIPs/issues/648)
 
 **Functional Breakdown**
 * Persistence

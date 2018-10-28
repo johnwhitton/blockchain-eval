@@ -48,6 +48,7 @@
   * [Architecture Design Records](https://github.com/tendermint/tendermint/tree/master/docs/architecture)
 * Persistence
   * Storage
+    * Blockchain data is in ~/.tendermint/data/blockstore.db.
     * [488 - StateDB Refactor](https://github.com/cosmos/ethermint/pull/488)
   * Light Client
   * Node
@@ -107,6 +108,7 @@
   * Deployment Tools
 * Performance
   * [Mempool Overload at Volume](https://github.com/tendermint/tendermint/issues/1394)
+  * [Performance Testing and Stalls](https://github.com/tendermint/tendermint/issues/2709)
 
 **Key Pull Requests or Features**
 
