@@ -13,6 +13,9 @@
 * Ethereum 2.0 Casper+Sharding Development Update #14 — Prysmatic Labs - [Medium](https://medium.com/prysmatic-labs/ethereum-2-0-casper-sharding-development-update-14-prysmatic-labs-349a97a8c627)
 * Ethereum 2.0 - Sharding Roadmap - [wiki](https://github.com/ethereum/wiki/wiki/Sharding-roadmap)
 * Ethereum 2.0 - Sharding FAQS - [wiki](https://github.com/ethereum/wiki/wiki/Sharding-FAQs)
+* [The Ethereum Launch Process (Roadmap)](https://blog.ethereum.org/2015/03/03/ethereum-launch-process/)
+* [Ethereum 2.0 Specification](https://github.com/ethereum/eth2.0-specs/blob/master/specs/beacon-chain.md)
+* [Ethereum 2.0 - Who's building it](https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e)
 
 
 

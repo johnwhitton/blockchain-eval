@@ -50,6 +50,10 @@
   * Storage
     * Blockchain data is in ~/.tendermint/data/blockstore.db.
     * [488 - StateDB Refactor](https://github.com/cosmos/ethermint/pull/488)
+    * [Support multi trie in genesis generation](https://github.com/paritytech/substrate/pull/958)
+  * [Immutable AVL Tree](https://github.com/tendermint/iavl) 
+    * [AVL Tree](https://en.wikipedia.org/wiki/AVL_tree) is used by tendermint instead of 
+    * [Patrica Tree](https://github.com/ethereum/wiki/wiki/Patricia-Tree) which is used by Ethereum
   * Light Client
   * Node
   * Validator
@@ -57,6 +61,7 @@
   * Archive Node
 * Distribution
   * Discovery
+    * [Genesis workflow](https://github.com/cosmos/cosmos-sdk/pull/2602)
   * Gossip
     * [Amino vs Proto Encoding issue](https://github.com/tendermint/tendermint/issues/2682)
     * [Protobuf Encoding (including zigzag)](https://developers.google.com/protocol-buffers/docs/encoding)
@@ -64,6 +69,8 @@
     * Block Finality
       * [Proposal to Optimize the Consensus](https://github.com/tendermint/tendermint/issues/2691)
         * [Core Consenus Update 2696](https://github.com/tendermint/tendermint/pull/2696)
+      * [Round Robin Proposal](https://github.com/tendermint/tendermint/issues/2633)
+    * [Simplify Proposal Message](https://github.com/tendermint/tendermint/issues/2646#issuecomment-433883250)
 * Security
   * Signing
     * [2554 -gaicli multisig ready](https://github.com/cosmos/cosmos-sdk/pull/2554)
@@ -77,6 +84,8 @@
     * [Vesting Accounts](https://github.com/cosmos/cosmos-sdk/blob/e9295252251417c86f29b294563228f076652d5b/docs/spec/auth/vesting.md)
     * [Proposer Rewards](https://github.com/cosmos/cosmos-sdk/issues/588)
     * [Staking Keeper package](https://godoc.org/github.com/cosmos/cosmos-sdk/x/stake/keeper) [2598 - refactor]
+    * [Align Vote Proposals](https://github.com/tendermint/tendermint/issues/2727)
+    * [Prpopser reward decreasing based on round proposed](https://github.com/cosmos/cosmos-sdk/issues/2579)
   * Voting
   * Proposals
     * [Governance Design Overview](https://github.com/cosmos/cosmos-sdk/blob/develop/docs/spec/governance/overview.md)
@@ -109,6 +118,7 @@
 * Performance
   * [Mempool Overload at Volume](https://github.com/tendermint/tendermint/issues/1394)
   * [Performance Testing and Stalls](https://github.com/tendermint/tendermint/issues/2709)
+  * [Cosmos SDK amino Performance Enhancements](https://github.com/cosmos/cosmos-sdk/issues/2652)
 
 **Key Pull Requests or Features**
 

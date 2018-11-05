@@ -30,6 +30,7 @@
 * [Cosmos vs Polkadot](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
 * [Polkadot POC Tutorials](https://medium.com/coinmonks/polkadot-hello-world-3-poc-3-on-substrate-is-here-c45d100f72e3)
 * [Polkadot on Reddit](https://www.reddit.com/r/dot/)
+* [substrate.readme.io](https://substrate.readme.io/) - Substrate Developers Hub
 
 
 
@@ -94,6 +95,7 @@
     * [Finality GANDPA Code](https://github.com/paritytech/finality-grandpa)
     * [Substrate using GRANDPA](https://github.com/paritytech/substrate/blob/master/core/finality-grandpa/src/lib.rs)
     * [Full nodes should store a GRANDPA commit message](https://github.com/paritytech/substrate/issues/1026)
+    * [Dynamic Authority sets in GRANDPA](https://github.com/paritytech/substrate/pull/1014)
 
 ### Polkadot - Relay Chain
 * [Whitepaper Overview - Participation in Polkadot](https://polkadot.network/PolkaDotPaper.pdf) - Page 4 gives an overview of the actors
@@ -178,6 +180,10 @@ total 0
 drwxr-xr-x  5 jincubator  staff  160 Oct 22 21:31 bbq-birch
 drwxr-xr-x  5 jincubator  staff  160 Oct 23 11:50 development
 drwxr-xr-x  5 jincubator  staff  160 Oct 23 14:16 staging_testnet
+```
+and to purge a chain see
+```
+substrate purge-chain --help
 ```
 
 **Deploying Polkadot**
