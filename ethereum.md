@@ -16,6 +16,7 @@
 * [The Ethereum Launch Process (Roadmap)](https://blog.ethereum.org/2015/03/03/ethereum-launch-process/)
 * [Ethereum 2.0 Specification](https://github.com/ethereum/eth2.0-specs/blob/master/specs/beacon-chain.md)
 * [Ethereum 2.0 - Who's building it](https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e)
+* [Ethereum Research](https://ethresear.ch/tags)
 
 
 
