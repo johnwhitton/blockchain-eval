@@ -49,7 +49,7 @@ Stellar-core is a replicated state machine that maintains a local copy of a cryp
   * [New Work Interface Builds](https://github.com/stellar/stellar-core/pull/1819)
 * Persistence
   * Storage
-    * Data Layer rewrite - [1600]](https://github.com/stellar/stellar-core/pull/1600) and [1788](https://github.com/stellar/stellar-core/pull/1788)
+    * Data Layer rewrite - [1600](https://github.com/stellar/stellar-core/pull/1600) and [1788](https://github.com/stellar/stellar-core/pull/1788)
   * Light Client
   * Node
   * Validator

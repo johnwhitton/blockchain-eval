@@ -31,6 +31,7 @@
 * [Polkadot POC Tutorials](https://medium.com/coinmonks/polkadot-hello-world-3-poc-3-on-substrate-is-here-c45d100f72e3)
 * [Polkadot on Reddit](https://www.reddit.com/r/dot/)
 * [substrate.readme.io](https://substrate.readme.io/) - Substrate Developers Hub
+* [Substrate Workshop - Video](https://www.youtube.com/watch?time_continue=278&v=26ucTSSaqog)
 
 
 
