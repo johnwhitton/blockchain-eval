@@ -13,6 +13,10 @@
   * [2018-Q4 Focus](https://docs.google.com/document/d/1asT6tboZUD65VHMszwDU42J70ZMMbdieeRuQUAq_mcE/edit)
   * Further research
     * [Blockchain and human episodic memory](https://arxiv.org/abs/1811.02881)
+* Verticals
+  * [Data Marketplace for Scientists](https://medium.com/harmony-one/data-marketplace-for-scientists-7666afb68569)
+  * [Gaming - Animoca](https://medium.com/harmony-one/harmony-partners-with-gaming-industry-leader-animoca-e29f4624c055)
+
 
 ### Blockchain Explorers
 
