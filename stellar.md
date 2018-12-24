@@ -3,9 +3,13 @@
 
 ## Reference Material
 
-### Blockchain Explorers
+### Blockchain Explorers and Trading Platforms
 * [Stellar Dashboard](https://dashboard.stellar.org/) - Includes Transactions, Lumen Distribution and Network Nodes
 * [Stellar Expert](https://stellar.expert/explorer/public/asset/) - All Assets on Stellar
+* [Stellarx Trading Platform]()
+* [StellarX Trading Platform - Testnet](https://testnet.stellarx.com)
+
+
 
 
 

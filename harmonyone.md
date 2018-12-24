@@ -84,6 +84,7 @@
 **Key Pull Requests or Features**
 
 ##  Prototyping
+* [Harmony Devnet](https://devnet.harmony.one/)
 
 **Deploying a Node**
 

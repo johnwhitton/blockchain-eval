@@ -17,6 +17,7 @@
 * [Ethereum 2.0 Specification](https://github.com/ethereum/eth2.0-specs/blob/master/specs/beacon-chain.md)
 * [Ethereum 2.0 - Who's building it](https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e)
 * [Ethereum Research](https://ethresear.ch/tags)
+* [Reducing cross shard transaction times](https://ethresear.ch/t/a-layer-2-computing-model-using-optimistic-state-roots/4481)
 
 
 

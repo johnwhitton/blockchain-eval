@@ -32,6 +32,8 @@
 * [Polkadot on Reddit](https://www.reddit.com/r/dot/)
 * [substrate.readme.io](https://substrate.readme.io/) - Substrate Developers Hub
 * [Substrate Workshop - Video](https://www.youtube.com/watch?time_continue=278&v=26ucTSSaqog)
+* [Substrate Web 3 Summit - Slides](http://slides.com/paritytech/substrate_web3summit#/)
+* [Building on Substrate](https://hackmd.io/p_v1M8WGRyy9PggYiKA_Xw#)
 
 
 
