@@ -16,7 +16,7 @@
 * Verticals
   * [Data Marketplace for Scientists](https://medium.com/harmony-one/data-marketplace-for-scientists-7666afb68569)
   * [Gaming - Animoca](https://medium.com/harmony-one/harmony-partners-with-gaming-industry-leader-animoca-e29f4624c055)
-
+* [Roadmap](https://medium.com/harmony-one/harmony-2019-roadmap-497d7ed0a98b)
 
 ### Blockchain Explorers
 
