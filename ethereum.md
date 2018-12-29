@@ -18,6 +18,8 @@
 * [Ethereum 2.0 - Who's building it](https://medium.com/rocket-pool/ethereum-2-0-whos-building-it-54a735442e)
 * [Ethereum Research](https://ethresear.ch/tags)
 * [Reducing cross shard transaction times](https://ethresear.ch/t/a-layer-2-computing-model-using-optimistic-state-roots/4481)
+* [Ethereum 2.0 - Innovations Presentation](https://docs.google.com/presentation/d/1LTOqrIIdu8DtlvXFXsFeIbNqCL6k45xXPhrlAFlj7Pg/edit#slide=id.g2f439b2757_0_0)
+* [Ethereum 2.0 - Beacon Chain](https://ethresear.ch/t/using-the-beacon-chain-to-pos-finalize-the-ethereum-1-0-chain/4521/10)
 
 
 
