@@ -156,6 +156,7 @@
   * Feather
 ### Chain Tools
   * Governance
+    * [Democracy - Github](https://github.com/paritytech/substrate/blob/master/srml/democracy/src/lib.rs)
   * Token Economics
   * Token Standards
 ### Business Tools
