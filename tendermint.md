@@ -29,6 +29,7 @@
 * [Bug Bounty Program](https://blog.cosmos.network/bug-bounty-program-for-tendermint-cosmos-833c67693586)
 * Token Economics
   * [Validator Economics](https://blog.cosmos.network/economics-of-proof-of-stake-bridging-the-economic-system-of-old-into-the-new-age-of-blockchains-3f17824e91db)
+* [Cosmos Launch Schedule](https://blog.cosmos.network/cosmos-launch-schedule-eaf963385aac)
 
 
 ### Relevant Code Links
